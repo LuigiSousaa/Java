@@ -55,7 +55,7 @@ public class ListaExtra {
                 }
             }
         }
-        System.out.println("O maior valor é: " + maior + " e sua posição é: " + pos[0] + "," + pos[1]);
+        System.out.println("O maior valor é: " + maior + " e sua posição é: " + posi[0] + "," + posi[1]);
         System.out.println("======");
         System.out.println(" ");
     }
