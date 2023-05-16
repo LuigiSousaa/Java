@@ -1,0 +1,10 @@
+===REVISÃO PARA A SOMATIVA===
+Abra a pasta no winex e de um 'code .' no
+Todo arquivo dentro da pasta de java o  VSC, ganha o nome de "classe" 
+*COMO JOGAR UMA PASTA NO GH
+Crie um novo repositório na nuvem (GH);
+Crie um repositório local... Execute o "git init";
+Execute "git add ." para separar o que queres comitar;
+Execute "git commit -m 'nome do repositório'" para dar um nome ao arquivo comitado;
+Abra o GH e acesse os códigos. Copie os tres últimos códigos e cole no git bash;
+Para comitar uma atualização da paste/projeto, execute os seguintes códigos "git add .", "git commit -m 'nome do projeto'" e "git push".
